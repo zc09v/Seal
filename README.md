@@ -175,12 +175,6 @@ python -m pytest --cov=seal tests/
 python -m pytest tests/codes/validation/
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Made with ❤️ for the LLM community**
