@@ -1,0 +1,1 @@
+每个开发任务前都要阅读"development_guide.md"，可以工程下dev_md文件夹下找到
